@@ -127,7 +127,7 @@ Termômetro (Einstrumental: ±0,5 ºC).
 
 Para temperatura e pressão na data do experimento foram medidos 26 ºC e 677 mmHg respectivamente (ou 299,15 K e 90259,3 Pa). Considerando o ar como sendo seco (sem umidade), podemos aproximar a medida da densidade do ar pela equação:
 
-	ρ_ar=P/(R_(esp.) T)=(90259,2 [Pa])/(287,058 [J⋅〖kg〗^(-1)⋅K^(-1)]⋅299,15[K])=1,051 kg⋅m^(-3)
+	\rho_{ar} =\frac{P}{R_{esp}T }= \frac{90259.2_{pa}}}}{287.058_{\frac{j}{kg*k}}}}
 	Equação : Densidade do ar.
 
 A pressão antes do experimento, dentro do túnel de vento foi medida em 0,04 cm de H2O. Com o túnel de vento ligado, a uma distância segura onde o aerofólio não perturbasse o escoamento, a pressão foi medida em 1,04 cm de H2O. Podemos calcular a velocidade do escoamento a partir da equação:
