@@ -75,4 +75,92 @@ Pela mudança do ângulo no bordo de ataque, dependendo do ângulo, haverá uma 
 
 ### 3.	Execução:
 
+### Divisão de tarefas e cronograma
+		Conforme descrito na etapa 2, a divisão de tarefas dos integrantes foi realizada sem nenhuma alteração.
+		Arthur:
+Auxílio em obter o perfil de asa em isopor e manutenção das medidas para realizar o experimento;
+Montagem do aerofólio para o experimento, será necessário a manutenção das medidas e é necessário prender as linhas de barbante na parte superior do perfil da asa (Extradorso);
+Será responsável pela foto do experimento, filmagem.
+		Daniel:
+Auxílio em obter o perfil de asa em isopor e manutenção das medidas para realizar o experimento;
+Construção do mecanismo para alteração do ângulo de ataque; 
+Montagem do experimento e execução do mesmo;
+Responsável por fazer o envio dos experimentos via github.			
+		Victor:
+Construção do mecanismo para alteração do ângulo de ataque;
+Montagem do aerofólio para o experimento, será necessário a manutenção das medidas e é necessário prender as linhas de barbante na parte superior do perfil da asa (Extradorso).
+
+### Descrição dos procedimentos realizados
+	Fotos do experimento montado;
+Abaixo é mostrado na imagem a foto do mecanismo para alteração do ângulo de ataque, juntamente com a o perfil de asa obtido para o experimento, foi utilizado esse mecanismo, foi utilizado lego para construção do suporte devido a facilidade que o proporcionou para a montagem.
+ 
+			Figura 1: Mecanismo utilizado no experimento juntamente com o perfil de asa
+### Descrição de cada procedimento executado e justificativa, se houver diferença com a etapa 2;
+	Foi pensado na etapa 2 um perfil em madeira, porém devido a facilidade de um dos membros em conseguir peças de lego e sistemas elétricos de controle via motores e cabos. Foi aderido por unanimidade no grupo um novo sistema composto por 205 peças de lego; motor Servo micro 9gr; Bateria Life 3000mnh 7.4v e um Servo Teste Testador Sg90 Mg995 Esc Futaba Towerpro.
+	Outra alteração no projeto foi não refazer o experimento com fio de rabiola. Após discutir em grupo e buscar auxílio externo com o professor Luciano Gonçalves Noleto. Ficou claro que devido a baixa velocidade do túnel de vento não seria possível observar as linhas de corrente com certo material. Então como já tinha sido efetuado com barbante, foi optado por não efetuar novamente com fio de rabiola e sim uma série de testes com barbante.
+	A quantidade de dias necessários para o desenvolvimento do experimento foi alterada no cronograma. Era pensado que seriam necessárias três semanas para fazer os testes, porém em uma semana conseguiu-se refazer os testes e tirar as conclusões necessárias diminuindo o cronograma inicial de 7 semanas para 4, demonstrada no Apêndice 1.1.  
+
+### Comparativo entre o experimento feito e o ensaio num tubo de vento com velocidade superior;
+	Em paralelo, devido aos resultados não terem sido obtidos como esperados devido às limitações do aparato laboratorial utilizado, foram buscados resultados consistentes em outro experimento. Semelhante a ideia original do que foi proposto, no entanto de várias formas diferentes quanto a realização, condições de contorno e resultados obtidos.
+	Primeiramente, foi utilizado um túnel de vento da companhia inglesa (já fora do mercado) Plint & Partners Ltd. e aparato técnico como se segue:
+
+ 
+     Figura 2: Túnel de vento.
+
+ 
+          Figura 3: Detalhe do medidor de ângulo de ataque.
+
+	Aerofólio NACA 0012 (com flap e barbantes);
+	Túnel de vento (aprox. 46x46 cm de secção);
+	Manômetro digital (Validyne PS309. Einstrumental: ±0,01 cm H2O);
+	Controlador de ângulo de ataque (Einstrumental: ±0,5º);
+	Régua (Einstrumental: ±0,5 cm);
+	Paquímetro (Einstrumental: ±0,025 mm);
+	Barômetro (Einstrumental: ±0,5 mm Hg);
+	Termômetro (Einstrumental: ±0,5 ºC).
+
+Para temperatura e pressão na data do experimento foram medidos 26 ºC e 677 mmHg respectivamente (ou 299,15 K e 90259,3 Pa). Considerando o ar como sendo seco (sem umidade), podemos aproximar a medida da densidade do ar pela equação:
+
+ρ_ar=P/(R_(esp.) T)=(90259,2 [Pa])/(287,058 [J⋅〖kg〗^(-1)⋅K^(-1)]⋅299,15[K])=1,051 kg⋅m^(-3)
+Equação : Densidade do ar.
+
+	A pressão antes do experimento, dentro do túnel de vento foi medida em 0,04 cm de H2O. Com o túnel de vento ligado, a uma distância segura onde o aerofólio não perturbasse o escoamento, a pressão foi medida em 1,04 cm de H2O. Podemos calcular a velocidade do escoamento a partir da equação:
+
+v_(esc.)=√((2⋅(P_(estag.)-P_(estatic.)))/ρ_ar )=√((2⋅(101,9892-3,9226) [Pa])/(1,051 [kg⋅m^(-3)]))=13.66 m⁄s
+Equação: velocidade do escoamento.
+	
+	Com esses dados é possível calcular o número de Reynolds com a seguinte ressalva: vamos utilizar a viscosidade do ar seco a uma pressão de 1 bar, pois a viscosidade do mesmo depende majoritariamente da pressão. A viscosidade do ar é igual a μar=1,841⋅10-5 kg⋅m-1⋅s-1. Temos também as medidas do aerofólio: uma envergadura de 153 mm (que será nossa largura "L") e corda de 18,7 mm (são esses dados que o configuram como um NACA 0012). Com essas informações em mente podemos finalmente prosseguir:
+
+Re=(ρ_ar⋅v_(esc.)⋅L)/μ_ar =119324,4594
+Equação: número de Reynolds.
+	
+	Com o aerofólio posicionado dentro do túnel de vento foi-se aumentando lentamente o ângulo de ataque. Com 8º já era possível visualizar um aumento da camada no bordo de fuga, com 10º havia um início de descolamento na traseira do aerofólio e com 12º o descolamento da camada limite propagou-se para todo o extradorso.
+
+ 
+         Figura 4: momento que o aerofólio começar a estola.
+
+ 
+
+### Dados medidos;
+Durante o procedimento foi medido a velocidade no extradorso da asa utilizando um anemômetro, obtendo uma velocidade de 4,14 m/s e também foi medido a velocidade antes atingir o aerofólio, essa velocidade encontrada foi de 4 m/s. Comprovando o fato de que a velocidade aumenta no extradorso da asa, gerando uma diminuição na pressão estática e assim devido a diferença de pressão no extradorso e intradorso da asa é gerada a sustentação.
+Utilizando a equação de bernoulli e desconsiderando efeitos de energia potencial, considerando o regime como permanente e escoamento subsônico a equação ficará:
+
+P1/ρar+〖V1〗^2/2=P2/ρar+〖V2〗^2/2
+	Considerando o termo P como a pressão atmosférica: 101325 PA
+	A densidade do ar como: 1,225 kg/m3
+	A V1 como: 4 m/s e V2 como 4,14 m/s
+	Substituindo na equação de bernoulli, foi encontrado que a P2(pressão no extradorso) diminuiu, pois, o valor encontrado foi de 101324,302 PA
+
+	
+Infelizmente, devido a baixa velocidade do túnel de vento, não foi possível visualizar as linhas de corrente, era esperado que com o aumento do ângulo de ataque fosse gerado um turbilhonamento na parte superior da asa, indicando assim o descolamento da camada limite (stall).
+
+
+
+
+### Apêndices
+
+    Apêndice 1.1:Período real para o desenvolvimento do projeto 
+
+
+
 ### 4.	Análise e conclusão:
