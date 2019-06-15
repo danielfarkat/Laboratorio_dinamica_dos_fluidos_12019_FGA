@@ -139,7 +139,12 @@ Equação: número de Reynolds.
  
          Figura 4: momento que o aerofólio começar a estola.
 
- 
+ É possível associar o comportamento do estol, o porque do ângulo crítico ser tão baixo, ao compararmos com a literatura. Em "Theory of Wing Sections" de Abott e Von Doenhoff é descrito que o ângulo de estol para um NACA 0012 é de 16°, no entanto o número de Reynolds no qual essa análise foi feita é de 3 milhões, o que pressupõe um escoamento turbulento. No experimento realizado, pela ordem do número de reynolds, é possível afirmar que o escoamento é predominantemente laminar com pequenas flutuações turbulentas.
+
+	Figura 5: Coeficiente de sustentação e ângulo de ataque com Reynolds da ordem de 105.
+
+
+O aerofolio de isopor que foi utilizado no tunel de vento tinha uma corda "L" igual a 54 cm. Como a velocidade do escoamento  de 4,14 m/s e essa corda teorizamos que o ângulo de ataque para qual o aerofólio atingiria o estol seria ainda menor devido ao número de Reynolds ser da ordem de 104, o que reforça que, com os equipamentos utilizados, seria impossível verificar o ângulo de estol do aerofólio num túnel de vento com tão baixa velocidade. 	
 
 ### Dados medidos;
 Durante o procedimento foi medido a velocidade no extradorso da asa utilizando um anemômetro, obtendo uma velocidade de 4,14 m/s e também foi medido a velocidade antes atingir o aerofólio, essa velocidade encontrada foi de 4 m/s. Comprovando o fato de que a velocidade aumenta no extradorso da asa, gerando uma diminuição na pressão estática e assim devido a diferença de pressão no extradorso e intradorso da asa é gerada a sustentação.
