@@ -169,6 +169,7 @@ Apêndice 1.1:Período real para o desenvolvimento do projeto
 
 ### 4.	Análise e conclusão:
 ### links das etapas
+ x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
 
 	etapa 1	
 https://github.com/lgnsparda/Lboratorio_dinamica_dos_fluidos_12019_FGA/files/3293584/Laboratorio.dinamica.dos.fluidos.parte.1.pdf
